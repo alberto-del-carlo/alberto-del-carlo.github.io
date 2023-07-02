@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Possiamo utilizzare GitHub per realizzare un progetto ipertestuale che facilita il progetto M4S in cui si parla di [protisti](https://it.wikipedia.org/wiki/Protista) ma anche di reti neurali in [codice python](https://github.com/alberto-del-carlo/alberto-del-carlo.github.io/blob/main/object_detection_demo_ssd_async.py)
+Possiamo utilizzare GitHub per realizzare un progetto ipertestuale M4S in cui si parla di [protisti](https://it.wikipedia.org/wiki/Protista) ma anche di reti neurali in [codice python](https://github.com/alberto-del-carlo/alberto-del-carlo.github.io/blob/main/object_detection_demo_ssd_async.py)
 
 ### Possiamo anche inserire immagini 
 le immagini possono essere in formato jpg, png 
